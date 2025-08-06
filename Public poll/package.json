@@ -1,5 +1,5 @@
 {
-  "name": "quickpoll",
+  "name": "PUBLIC-POLL",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -16,6 +16,8 @@
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2",
-    "typescript": "^5.2.2"
+    "typescript": "^5.2.2",
+    "@types/react": "^18.2.21",
+    "@types/node": "^20.11.30"
   }
 }
